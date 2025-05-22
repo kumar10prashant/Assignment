@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9508967f452f844aa99df50b29fa7de, type: 3}
+  m_Name: 2020
+  m_EditorClassIdentifier: 
+  Year: 2020
+  clip: {fileID: 32900000, guid: 5456abd79e46cb14e88c0e15d7c77c79, type: 3}
+  creator:
+  - Header: Adapting & Innovating in Challenging Times
+    Description: "Despite global uncertainty, 2020 was a year of resilience and innovation.
+      We swiftly adapted to remote work, strengthened our digital infrastructure,
+      and launched key initiatives that set the stage for future growth. Our team\u2019s
+      dedication turned challenges into opportunities, marking a pivotal moment in
+      our journey."

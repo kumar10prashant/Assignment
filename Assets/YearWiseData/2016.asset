@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9508967f452f844aa99df50b29fa7de, type: 3}
+  m_Name: 2016
+  m_EditorClassIdentifier: 
+  Year: 2016
+  clip: {fileID: 32900000, guid: ab204a5b71712264f9f249bf3e0f15aa, type: 3}
+  creator:
+  - Header: Laying the Foundation
+    Description: "2016 marked the beginning of our journey. With a small but passionate
+      team, we laid the groundwork for our vision\u2014focused on innovation, collaboration,
+      and long-term impact. This was the year of bold ideas, big dreams, and the
+      first steps toward building something meaningful."
+  - Header: Where It All Began
+    Description: "2016 was the year everything started\u2014an idea, a purpose, and
+      a shared dream among a handful of passionate individuals. With minimal resources
+      but an unwavering belief in what we could build, we laid the foundation of
+      our company in a small workspace with big ambitions.  Our early days were filled
+      with late nights, endless brainstorming sessions, and a relentless drive to
+      turn concepts into reality. We built our first prototype, tested our assumptions,
+      and listened closely to every bit of feedback. Each challenge we faced only
+      strengthened our resolve.  More than just a starting point, 2016 was about
+      defining our values\u2014innovation, integrity, and impact. These principles
+      became the backbone of our culture and continue to guide us today. This was
+      not just the beginning of a company, but the birth of a mission to create meaningful
+      solutions and make a lasting difference."

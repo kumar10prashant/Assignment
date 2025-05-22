@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9508967f452f844aa99df50b29fa7de, type: 3}
+  m_Name: 2024
+  m_EditorClassIdentifier: 
+  Year: 2024
+  clip: {fileID: 32900000, guid: a79290be2a072c644b1ca8018155f572, type: 3}
+  creator:
+  - Header: Innovation, Expansion, and Sustainability
+    Description: 'Innovation: We launched our most advanced product yet, integrating
+      AI-driven features that redefined user experience and performance.'

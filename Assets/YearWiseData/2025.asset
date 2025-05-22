@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9508967f452f844aa99df50b29fa7de, type: 3}
+  m_Name: 2025
+  m_EditorClassIdentifier: 
+  Year: 2025
+  clip: {fileID: 32900000, guid: a8717148fa469164ca2a94e42f7c3590, type: 3}
+  creator:
+  - Header: Vision Realized, Future Unlocked
+    Description: "Milestone Achievement: Reached our long-term goal of serving 1
+      million users globally, a testament to our team's dedication and our customers\u2019
+      trust."
+  - Header: Vision Realized, Future Unlocked
+    Description: 'AI Integration: Rolled out full AI-powered automation across core
+      services, enhancing speed, accuracy, and scalability.'
+  - Header: Vision Realized, Future Unlocked
+    Description: 'Future-Forward Culture: Invested in talent, innovation labs, and
+      leadership programs to build a future-ready organization equipped for the next
+      decade.  '
