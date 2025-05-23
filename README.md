@@ -7,9 +7,9 @@ Unity Version I used 6000.0.43f1
 ---
 
 ## Setup of timeline
-ScrollRect:ScrollRect component responsibe for the scrolling
-Horizontal Layout Group:Layout group help in alignment of knots(TimeLine points)
-Content Size fitter:This component dynamically change image size(Depend upon number of points)
+ScrollRect:ScrollRect component responsibe for the scrolling.
+Horizontal Layout Group:Layout group help in alignment of knots(TimeLine points).
+Content Size fitter:This component dynamically change image size(Depend upon number of points).
 
 ## 🔄 Timeline Generation Logic
 
