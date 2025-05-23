@@ -136,6 +136,8 @@ public class YearWiseInfo : ScriptableObject
 }
 ```
 
+
+
 ### 📌 Usage:
 
 1. Create instances of `YearWiseInfo` for each year.
@@ -143,6 +145,21 @@ public class YearWiseInfo : ScriptableObject
 3. Load these into a runtime array to drive the timeline generation.
 
 ---
+## How Display Activate
+```csharp
+   void Start()
+    {
+        Debug.Log("displays connected: " + Display.displays.Length);
+        // Display.displays[0] is the primary, default display and is always ON.
+        // Check if additional displays are available and activate each.
+        if (Display.displays.Length > 1)
+            Display.displays[1].Activate();
+        if (Display.displays.Length > 2)
+            Display.displays[2].Activate(1920,1080,60);
+    }
+```
+### 📌 Usage:
+Dispaly.Activate function activate display in which optionally we can set height width with refresh rate
 
 ## 📦 Requirements
 
