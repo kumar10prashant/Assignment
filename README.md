@@ -1,10 +1,15 @@
 Unity Version I used 6000.0.43f1
 
-# 📅 Real-Time Scrollable Timeline Generation in Unity
+# 📅 Unity Developer Assignment: Dual-Screen Touchscreen
+[Build File with walkthrough video](https://drive.google.com/drive/folders/1NGCeeQTNkFX6f8p053MjNoH8YkALA2JT)
 
-This guide explains how to dynamically generate a scrollable timeline in Unity using pre-created UI knots and ScriptableObjects. This system allows you to visualize chronological data such as historical events, video archives, or product evolution.
 
 ---
+
+## Setup of timeline
+ScrollRect:ScrollRect component responsibe for the scrolling
+Horizontal Layout Group:Layout group help in alignment of knots(TimeLine points)
+Content Size fitter:This component dynamically change image size(Depend upon number of points)
 
 ## 🔄 Timeline Generation Logic
 
